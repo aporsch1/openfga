@@ -82,7 +82,7 @@ There are two recommended options for building OpenFGA from source code:
 
 #### Building from source with `go install`
 
-> Make sure you have the latest version of Go installed. See the [Go downloads](Download (1.23.1)) page.
+> Make sure you have the latest version of Go installed. See the [Go downloads](https://go.dev/dl/) page.
 
 You can install from source using Go modules:
 
